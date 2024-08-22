@@ -1,0 +1,22 @@
+*
+{
+    margin: 10px;
+}
+body{
+    background-color: cyan;
+}
+h1
+{
+    color: red;
+    font-size: 50px;
+}
+img
+{
+    width: 300px;
+    height: 300px;
+}
+p{
+    background-color: rgb(239, 227, 116);
+    color: blue;
+    font-family: impact;
+}
